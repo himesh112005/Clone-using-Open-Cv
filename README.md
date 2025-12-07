@@ -26,8 +26,8 @@ A Python application that uses **MediaPipe Pose Estimation** to detect human bod
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/himesh112005/Clone-using-Open-Cv.git](https://github.com/himesh112005/Clone-using-Open-Cv.git)
+    cd Clone-using-Open-Cv
     ```
 
 2.  **Install Dependencies:**
@@ -40,9 +40,9 @@ A Python application that uses **MediaPipe Pose Estimation** to detect human bod
 1.  Ensure your webcam is connected and accessible.
 2.  Run the main Python script from your terminal:
     ```bash
-    python main_tracker.py 
+    python project2.py 
     ```
-    *(Note: Replace `main_tracker.py` with the actual name of your script.)*
+    *(Note: Replace `project2.py` with the actual name of your script.)*
 
 Press **`Q`** to exit the application.
 
